@@ -1,0 +1,214 @@
+C:\datasets\RoadDamageDatasets\CrackForest\image\109.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\109.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\116.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\116.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\013.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\013.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\028.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\028.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\048.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\048.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\049.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\049.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\057.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\057.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\117.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\117.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\079.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\079.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\067.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\067.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\092.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\092.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\010.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\010.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\046.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\046.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\019.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\019.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\055.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\055.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\001.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\001.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\065.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\065.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\083.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\083.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\111.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\111.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\061.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\061.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\023.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\023.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\054.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\054.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\018.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\018.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\091.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\091.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\008.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\008.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\088.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\088.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\004.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\004.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\096.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\096.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\069.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\069.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\071.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\071.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\015.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\015.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\058.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\058.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\064.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\064.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\068.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\068.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\005.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\005.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\113.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\113.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\075.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\075.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\095.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\095.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\011.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\011.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\035.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\035.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\056.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\056.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\051.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\051.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\044.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\044.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\063.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\063.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\021.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\021.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\045.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\045.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\110.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\110.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\106.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\106.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\107.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\107.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\059.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\059.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\047.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\047.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\105.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\105.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\098.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\098.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\078.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\078.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\084.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\084.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\042.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\042.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\114.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\114.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\097.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\097.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\101.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\101.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\025.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\025.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\112.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\112.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\032.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\032.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\052.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\052.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\041.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\041.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\016.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\016.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\026.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\026.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\027.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\027.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\033.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\033.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\094.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\094.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\085.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\085.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\009.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\009.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\036.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\036.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\070.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\070.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\100.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\100.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\038.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\038.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\029.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\029.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\099.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\099.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\003.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\003.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\089.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\089.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\039.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\039.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\014.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\014.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\073.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\073.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\090.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\090.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\007.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\007.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\076.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\076.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\072.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\072.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\077.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\077.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\066.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\066.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\103.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\103.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\087.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\087.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\081.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\081.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\080.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\080.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\118.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\118.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\017.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\017.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\022.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\022.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\093.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\093.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\053.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\053.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\002.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\002.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\082.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\082.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\031.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\031.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\108.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\108.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\050.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\050.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\115.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\115.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\024.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\024.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\086.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\086.png
+C:\datasets\RoadDamageDatasets\CrackForest\image\012.jpg,C:\datasets\RoadDamageDatasets\CrackForest\label\012.png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0216 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0216 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0267 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0267 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0150 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0150 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (7).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (7).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0299 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0299 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0317 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0317 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (9).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (9).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0319 (6).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0319 (6).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0325 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0325 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0116 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0116 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0132 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0132 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0188 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0188 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0132 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0132 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0326 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0326 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0251 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0251 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0115 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0115 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (5).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (5).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0314 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0314 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0108 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0108 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0107 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0107 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0317 (6).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0317 (6).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0317 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0317 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0108 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0108 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0326 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0326 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0249 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0249 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0263 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0263 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0316 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0316 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0248 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0248 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0313 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0313 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0316 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0316 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0247 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0247 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0299 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0299 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0323 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0323 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0298 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0298 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0325 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0325 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0325 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0325 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0255 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0255 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0279 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0279 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0299 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0299 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0317 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0317 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0156 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0156 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0279 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0279 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0133 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0133 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0317 (4).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0317 (4).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0324 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0324 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0198 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0198 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0107 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0107 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0189 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0189 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0323 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0323 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0322 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0322 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0152 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0152 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0324 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0324 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0153 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0153 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0153 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0153 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0255 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0255 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0290 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0290 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0150 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0150 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0322 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0322 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0116 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0116 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (4).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (4).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (10).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (10).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0203 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0203 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0316 (4).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0316 (4).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0268 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0268 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0318 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0318 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0263 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0263 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0322 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0322 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0319 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0319 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0319 (5).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0319 (5).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0117 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0117 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0280 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0280 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0312 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0312 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0107 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0107 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0115 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0115 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0324 (4).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0324 (4).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0132 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0132 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0117 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0117 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0128 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0128 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0316 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0316 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0152 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0152 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0216 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0216 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0310 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0310 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0152 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0152 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0325 (5).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0325 (5).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0263 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0263 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0133 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0133 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0110 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0110 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0170 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0170 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0224 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0224 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0310 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0310 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0133 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0133 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0319 (4).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0319 (4).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0315 (8).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0315 (8).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0312 (2).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0312 (2).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0313 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0313 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0319 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0319 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0154 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0154 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0322 (4).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0322 (4).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0190 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0190 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0155 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0155 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0116 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0116 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0220 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0220 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0319 (3).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0319 (3).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0298 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0298 (1).png
+C:\datasets\RoadDamageDatasets\CrackMap\images\GOPR0157 (1).png,C:\datasets\RoadDamageDatasets\CrackMap\masks\GOPR0157 (1).png
